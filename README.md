@@ -1,7 +1,7 @@
 # Aim
 To send double encrypted messages and key from one device to another and classify them based on their emotions. Following block diagram shows the workflow of the project:
 
-<img src= "Images/Block_dig.JPG" width="1000" height="550">
+<img src= "Images/Block_dig.JPG" width="1050" height="500">
 
 # Procedure
 ## Generating Private/Public keys and encryption
