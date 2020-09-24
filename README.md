@@ -32,6 +32,11 @@ The above dataset is a part of the full version of "Emotion Sensor Dataset" give
 To know more about the dataset visit https://www.kaggle.com/iwilldoit/emotions-sensor-data-set
 This dataset contains Top 23730 English Words along with their probabilities for & different classes(emotions) that contribute to the emotion of a sentence. By using this data set we can know the emotion of the sentence/message.
 
+Following is the sample output for 4 text messages, (note the 4th message has some random character to check if that affects the transmission process or emotion detection);
+
+
+![](Images/Sample_Output.JPG)
+
 # Applications 
 - Training chatbots to learn emotions and chat securely.
 Most of our interactions with bots are transactional in nature. Order me a pizza. Tell me today’s weather. Remind me to buy flowers for Mom. But a growing breed of chatbots are being designed to do something far more impactful: "make us feel better". And guess if the bot is able to know your emotion through your securely transmitted message, sounds good right? 
