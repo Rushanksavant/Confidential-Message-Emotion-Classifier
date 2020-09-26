@@ -6,4 +6,5 @@
 - Taking input of `mssg_num` messages from the user.
 - Encryption of messages using Public key.
 - Numeric encryption of encrypted messages.
+- Clearing older data from firebase database.
 - Publishing Numeric Encrypted key and Double Encrypted messages to Firebase.
